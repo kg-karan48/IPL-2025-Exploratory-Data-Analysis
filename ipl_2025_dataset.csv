@@ -1,0 +1,11 @@
+match_id,season,team1,team2,winner,venue,toss_winner,toss_decision,runs_team1,runs_team2,wickets_team1,wickets_team2,overs,player_of_match,match_result,date
+1,2025,CSK,RCB,CSK,Chennai,RCB,bat,178,165,6,8,20.0,Ruturaj Gaikwad,win,2025-03-22
+2,2025,MI,KKR,MI,Mumbai,MI,field,190,182,5,7,20.0,Suryakumar Yadav,win,2025-03-23
+3,2025,DC,RR,RR,Delhi,RR,bat,160,161,9,6,19.4,Sanju Samson,win,2025-03-24
+4,2025,SRH,LSG,SRH,Hyderabad,LSG,field,201,195,4,8,20.0,Travis Head,win,2025-03-25
+5,2025,GT,PBKS,GT,Ahmedabad,GT,bat,175,170,7,9,20.0,Shubman Gill,win,2025-03-26
+6,2025,RCB,MI,RCB,Bengaluru,MI,field,185,180,6,8,20.0,Virat Kohli,win,2025-03-27
+7,2025,KKR,CSK,CSK,Kolkata,CSK,field,168,172,8,6,19.1,MS Dhoni,win,2025-03-28
+8,2025,RR,SRH,RR,Jaipur,RR,bat,192,180,5,9,20.0,Jos Buttler,win,2025-03-29
+9,2025,LSG,GT,GT,Lucknow,LSG,bat,158,160,10,7,19.3,Rashid Khan,win,2025-03-30
+10,2025,PBKS,DC,No Result,Mohali,PBKS,field,0,0,0,0,0.0,NA,no result,2025-03-31
